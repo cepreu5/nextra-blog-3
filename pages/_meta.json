@@ -1,0 +1,27 @@
+{
+  "index": "Intro",
+  "frameworks": "JS Frameworks & Libs",
+  "Smart": "SMART BANKING",
+  "company": {
+    "title": "Company",
+    "type": "menu",
+    "items": {
+      "about": {
+        "title": "About Us",
+        "href": "/about"
+      },
+      "Smart": {
+        "title": "SMART BANKING",
+        "href": "/Smart/W1TTY"
+      },
+      "Svelte": {
+        "title": "Svelte",
+        "href": "svelte"
+      },
+      "contact": {
+        "title": "Contact Us",
+        "href": "mailto:hi@example.com"
+      }
+    }
+  }
+}
